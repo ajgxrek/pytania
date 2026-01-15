@@ -8,11 +8,13 @@ lub bazujących na określonym typie rozgrywki
 
 ## Znane silniki gier 
 
-Silnik	Największa zaleta	Trudność nauki	Przeznaczenie
-Unreal Engine	Fotorealizm (AAA)	Średnia (Blueprints) / Trudna (C++)	Duże gry 3D
-Unity	Mobilność i Asset Store	Średnia	Gry mobilne, 2D, VR
-Godot	Całkowicie darmowy	Łatwa	Gry indie, 2D
-Frostbite	Destrukcja otoczenia	Bardzo trudna	Gry EA (sportowe, FPS)
+| Silnik | Największa zaleta | Trudność nauki | Główne przeznaczenie |
+| :--- | :--- | :--- | :--- |
+| **Unreal Engine** | Fotorealizm i system Nanite/Lumen | Średnia (Blueprints) / Trudna (C++) | Gry AAA, wysokobudżetowe produkcje 3D |
+| **Unity** | Wszechstronność i ogromny Asset Store | Średnia (C#) | Gry mobilne, indie, 2D oraz VR/AR |
+| **Godot** | Open Source (całkowicie darmowy) | Łatwa (GDScript/C#) | Gry niezależne (indie), lekkie projekty 2D/3D |
+| **Frostbite** | Zaawansowana fizyka i destrukcja | Bardzo trudna | Gry sportowe i shootery od EA (np. Battlefield) |
+| **CryEngine** | Renderowanie otwartych przestrzeni | Trudna | Gry z bogatą roślinnością, zaawansowane FPS |
 
 ## Funkcje silnika 
 
